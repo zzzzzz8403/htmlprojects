@@ -1,0 +1,13 @@
+table{
+    border: 2px, outset, rgb(255, 0, 0);
+    width: 50%;
+    justify-self: center;
+}
+
+td{
+    border: 2px, outset, black
+}
+
+/* :root{
+    background-color: aquamarine;
+} */
